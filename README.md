@@ -14,7 +14,7 @@ This project is a **collaborative software testing initiative** aimed at ensurin
 - **Test Summary Documentation**
 - **Selenium with Java** (For automation, handled by the team lead)
 
-- 
+  
 ## 🚀 Features
 ✔️ Developing a **Test Plan** to outline testing strategy  
 ✔️ Designing a **Mind Map (XMind Plan)** for visual representation  
